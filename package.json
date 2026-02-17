@@ -1,0 +1,27 @@
+{
+  "name": "instant-flexbox-helper",
+  "version": "1.0.0",
+  "description": "Instant flexbox layout utility classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "flexbox",
+    "helper",
+    "instant",
+    "js",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raccoonette/instant-flexbox-helper.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
